@@ -1,0 +1,4 @@
+com\apicadastro\veiculos\controller\VeiculoController.class
+com\apicadastro\veiculos\domain\Veiculo.class
+com\apicadastro\veiculos\repository\VeiculoRepository.class
+com\apicadastro\veiculos\VeiculosApplication.class
